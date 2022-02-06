@@ -2,7 +2,7 @@
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais de  mim
 
 <img align="right" width="300" src="https://i.giphy.com/media/zDuStFVpRJIZ2/giphy.webp" />
 
@@ -17,7 +17,7 @@ object **SEU NOME** {
 }
 ```
 
-## **Linguagens **  
+## **Linguagens 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
