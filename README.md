@@ -6,16 +6,7 @@ Gosto de codigar pra passar o tempo e aprender coisas novas! As vezes faço algo
 
 <img align="right" width="300" src="https://i.giphy.com/media/zDuStFVpRJIZ2/giphy.webp" />
 
-```javascript
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
 
-}
-```
 
 ## Linguagens 
 
@@ -28,7 +19,7 @@ object **SEU NOME** {
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
-#### Rede Sociais!
+### Rede Sociais!
 
 🏡 [Teste][website] **|** 
 🐦 [twitter][twitter] **|** 
