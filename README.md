@@ -2,8 +2,6 @@
 
 Gosto de codigar pra passar o tempo e aprender coisas novas! As vezes faço algo útil.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais de  mim
-
 <img align="right" width="300" src="https://i.giphy.com/media/zDuStFVpRJIZ2/giphy.webp" />
 
 
