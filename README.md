@@ -18,7 +18,7 @@ Gosto de codigar pra passar o tempo e aprender coisas novas! As vezes faço algo
 🚴 [Bicicletários Já!][bike] **|** 
 🎥 [Reunião de Maratonamento][maratonamento]
 
-[culbe]: https://culbe-do-livor.vercel.app
+[culbe]: https://culbedolivor.vercel.app
 [bike]: https://bicicletariosja.xyz
 [duck]: https://duckbags.xyz
-[maratonamento]: https:/reuniaodemaratonamento.vercel.app
+[maratonamento]: https://reuniaodemaratonamento.vercel.app
