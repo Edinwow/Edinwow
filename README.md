@@ -4,6 +4,7 @@ Gosto de codigar pra passar o tempo e aprender coisas novas! As vezes faço algo
 
 <img align="right" width="300" src="https://i.giphy.com/media/zDuStFVpRJIZ2/giphy.webp" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/edinwow/github-readme-stats)
 
 
 ## Linguagens 
