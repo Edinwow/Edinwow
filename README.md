@@ -2,7 +2,7 @@
 
 ## Boa noite galera 👋
 
-Gosto de codigar pra passar o tempo e aprender coisas novas! 
+Gosto de codigar pra passar o tempo e aprender coisas novas! </br>
 As vezes faço algo útil!
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/edinwow/github-readme-stats)-->
