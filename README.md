@@ -6,7 +6,7 @@ Gosto de codigar pra passar o tempo e aprender coisas novas! As vezes faço algo
 
 <img align="right" width="300" src="https://i.giphy.com/media/zDuStFVpRJIZ2/giphy.webp" />
 
-```kotlin
+```javascript
 object **SEU NOME** {
  val name = "SEU NOME COMPLETO"
  val acknowledgements = "ÁREA DE CONHECIMENTO"
