@@ -16,7 +16,7 @@ Gosto de codigar pra passar o tempo e aprender coisas novas! As vezes faço algo
 📖 [Culbe do Livor][culbe] **|** 
 🛍️ [Duck Bags][duck] **|** 
 🚴 [Bicicletários Já!][bike] **|** 
-🎥 [Reunião de Maratonamento][maratonamento] **|** 
+🎥 [Reunião de Maratonamento][maratonamento]
 
 [culbe]: https://www.culbe-do-livor.vercel.app
 [bike]: https://www.bicicletariosja.xyz
