@@ -1,9 +1,10 @@
 <img align="right" width="300" src="https://i.giphy.com/media/zDuStFVpRJIZ2/giphy.webp" />
 
-## Boa noite galera 👋
+## Boa noite! 👋
 
 Gosto de codigar pra passar o tempo e aprender coisas novas! </br>
-As vezes faço algo útil! </br></br>
+Tô tentando juntar isso tudo na minha área de estudo 🌍 </br>
+As vezes faço algo útil! </br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/edinwow/github-readme-stats)-->
 
