@@ -17,7 +17,7 @@ As vezes faço algo útil! </br>
 🛍️ [Duck Bags][duck] **|** 
 🚴 [Bicicletários Já!][bike] **|** 
 🎥 [Reunião de Maratonamento][maratonamento] **|**
-🪙 [Sitemas para Financeiras[financeiras]
+🪙 [Sitemas para Financeiras][financeiras]
 
 [culbe]: https://culbedolivor.vercel.app
 [bike]: https://bicicletariosja.xyz
