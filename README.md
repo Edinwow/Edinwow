@@ -15,12 +15,14 @@ As vezes faço algo útil! </br>
 
 📖 [Culbe do Livor][culbe] **|** 
 🛍️ [Duck Bags][duck] **|** 
+🧑‍💻 [Portfolio][portfolio] **|**
 🚴 [Bicicletários Já!][bike] **|** 
 🎥 [Reunião de Maratonamento][maratonamento] **|**
 🪙 [Sitemas para Financeiras][financeiras]
 
 [culbe]: https://culbedolivor.vercel.app
 [bike]: https://bicicletariosja.xyz
+[portfolio]: https://edinho.xyz
 [duck]: https://duckbags.xyz
 [maratonamento]: https://reuniaodemaratonamento.vercel.app
-[financeiras]: 
+[financeiras]:  https://reuniaodemaratonamento.vercel.app
