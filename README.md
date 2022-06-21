@@ -18,7 +18,7 @@ As vezes faço algo útil! </br>
 🧑‍💻 [Portfolio][portfolio] **|**
 🚴 [Bicicletários Já!][bike] **|** 
 🎥 [Reunião de Maratonamento][maratonamento] **|**
-🪙 [Sitemas para Financeiras][financeiras]
+🪙 [Sistemas para Financeiras][financeiras]
 
 [culbe]: https://culbedolivor.vercel.app
 [bike]: https://bicicletariosja.xyz
