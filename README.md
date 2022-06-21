@@ -16,8 +16,8 @@ As vezes faço algo útil! </br>
 📖 [Culbe do Livor][culbe] **|** 
 🛍️ [Duck Bags][duck] **|** 
 🚴 [Bicicletários Já!][bike] **|** 
-🎥 [Reunião de Maratonamento][maratonamento] (Em andamento) **|**
-🪙 [Sitemas para Financeiras[financeiras] (Modelo)
+🎥 [Reunião de Maratonamento][maratonamento] **|**
+🪙 [Sitemas para Financeiras[financeiras]
 
 [culbe]: https://culbedolivor.vercel.app
 [bike]: https://bicicletariosja.xyz
