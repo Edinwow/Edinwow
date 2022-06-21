@@ -25,4 +25,4 @@ As vezes faço algo útil! </br>
 [portfolio]: https://edinho.xyz
 [duck]: https://duckbags.xyz
 [maratonamento]: https://reuniaodemaratonamento.vercel.app
-[financeiras]:  https://reuniaodemaratonamento.vercel.app
+[financeiras]: https://sistemaparafinanceiras.vercel.app
