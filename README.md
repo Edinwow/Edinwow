@@ -14,15 +14,9 @@ As vezes faço algo útil! </br>
 ## Sites que eu fiz!
 
 📖 [Culbe do Livor][culbe] **|** 
-🛍️ [Duck Bags][duck] **|** 
-🧑‍💻 [Portfolio][portfolio] **|**
 🚴 [Bicicletários Já!][bike] **|** 
-🎥 [Reunião de Maratonamento][maratonamento] **|**
 🪙 [Sistemas para Financeiras][financeiras]
 
 [culbe]: https://culbedolivor.vercel.app
-[bike]: https://bicicletariosja.xyz
-[portfolio]: https://edinho.xyz
-[duck]: https://duckbags.xyz
-[maratonamento]: https://reuniaodemaratonamento.vercel.app
+[bike]: https://bicicletariosja.vercel.app
 [financeiras]: https://sistemaparafinanceiras.vercel.app
